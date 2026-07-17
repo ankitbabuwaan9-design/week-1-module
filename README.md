@@ -4,7 +4,7 @@ This repository contains the Week 1 Programming Practice assignment completed in
 
 ## Topics Covered
 
-### Module 1 - Star Patterns
+### topic 1 - Star Patterns
 - Square
 - Hollow Square
 - Triangle
@@ -14,7 +14,7 @@ This repository contains the Week 1 Programming Practice assignment completed in
 - Half Diamond
 - Half Diamond Inverted
 
-### Module 2 - Number Patterns
+### topic 2 - Number Patterns
 - Square Pattern
 - Incrementing Pattern
 - Right Triangle Pattern
